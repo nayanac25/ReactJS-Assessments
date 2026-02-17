@@ -8,7 +8,7 @@ const Packages = () => {
       <div className="card-container">
         <div className="card">
           <img
-            src="https://images.unsplash.com/photo-1573843981267-be1999ff37cd"
+            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
             alt="Goa"
           />
           <h3>Goa Beach Escape</h3>
@@ -25,7 +25,7 @@ const Packages = () => {
 
         <div className="card">
           <img
-            src="https://images.unsplash.com/photo-1548013146-72479768bada"
+            src="https://images.unsplash.com/photo-1626621341517-bbf3d9990a23"
             alt="Manali"
           />
           <h3>Manali Adventure</h3>
@@ -42,7 +42,7 @@ const Packages = () => {
 
         <div className="card">
           <img
-            src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da"
+            src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c"
             alt="Dubai"
           />
           <h3>Dubai Luxury Tour</h3>
@@ -59,7 +59,7 @@ const Packages = () => {
 
         <div className="card">
           <img
-            src="https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+            src="https://images.unsplash.com/photo-1501785888041-af3ef285b470"
             alt="Switzerland"
           />
           <h3>Switzerland Premium</h3>

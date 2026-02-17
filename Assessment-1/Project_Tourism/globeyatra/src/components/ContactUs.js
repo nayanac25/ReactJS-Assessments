@@ -12,7 +12,7 @@ const ContactUs = () => {
             <strong>Company Name:</strong> GlobeYatra Tours
           </p>
           <p>
-            <strong>Phone:</strong> +91 9284465945
+            <strong>Phone:</strong> +91 9645138667
           </p>
           <p>
             <strong>Email:</strong> info@globeyatra.com
