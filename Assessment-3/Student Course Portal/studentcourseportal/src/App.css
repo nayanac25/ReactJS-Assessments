@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: Poppins, sans-serif;
+  background: linear-gradient(135deg, #d9dada, #c2c5c5);
+  color: rgb(255, 255, 255);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 18px 40px;
+  background: rgb(140, 137, 137);
+  backdrop-filter: blur(10px);
+}
+
+.navbar a {
+  color: rgb(25, 24, 24);
+  text-decoration: none;
+  margin: 20px;
+
+}
+h3{
+  color: black;
+  font-size: 30px;
+  text-shadow: white 2px 2px 2px;
+}
+.text{
+  background-color: rgb(237, 234, 234);
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+
+.course-container {
+  padding: 40px;
+  text-align: center;
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+.course-card {
+  background: rgba(255, 255, 255);
+  padding: 25px;
+  border-radius: 15px;
+  transition: 0.3s;
+  color: black;
+  /* font-weight: 40px; */
+
+}
+
+.course-card:hover {
+  transform: translateY(-8px);
+}
+
+.btn {
+  background: #8bbc5d;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+}
+
+.details-card {
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 40px;
+  background: rgba(255, 255, 255);
+  border-radius: 18px;
+  text-align: center;
+  color: black;
+}
+
+.price {
+  font-size: 26px;
+  color: #2560a4;
+}
+
+.enroll-btn {
+  margin-top: 20px;
+  padding: 12px 22px;
+  border: none;
+  border-radius: 10px;
+  background: #22c55e;
+  color: white;
+  cursor: pointer;
+}
